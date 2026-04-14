@@ -17,4 +17,4 @@ A starter program for writing JavaScript games.
    ````html `````;
    ``````
 
-2. The script will detect when the left or right arrow keys are pressed and will move the ball element accordingly. Similarly it will detect when the up and down arrow keys are pressed and will move the ball up and down respectively. Finally,the script will detect when the 'M' and 'Q' keys are pressed and will move the ball diagonally, left-down and right-up respectively.
+2. The script will detect when the left or right arrow keys are pressed and will move the ball element accordingly. Similarly it will detect when the up and down arrow keys are pressed and will move the ball up and down respectively. Finally, the script will detect when the 'M' and 'Q' keys are pressed and will move the ball diagonally, left-down and right-up respectively.
