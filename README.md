@@ -11,10 +11,10 @@ A starter program for writing JavaScript games.
 
 1. Include gamelet.js in an html document containing an element with an id of 'ball'.
 
-   `````html
+   ``````html
    <div id="ball">@</div>
    <script src="gamelet.js"></script>
-   ````html
-   `````
+   ````html `````;
+   ``````
 
-2. The script will detect when the left or right arrow keys are pressed and will move the ball element accordingly. Similarly it will detect when the 'Q' or 'M' keys ara pressed and will move the ball up and down respectively.
+2. The script will detect when the left or right arrow keys are pressed and will move the ball element accordingly. Similarly it will detect when the up and down arrow keys are pressed and will move the ball up and down respectively. Finally,the script will detect when the 'M' and 'Q' keys are pressed and will move the ball diagonally, left-down and right-up respectively.
